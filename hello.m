@@ -1,6 +1,6 @@
 #import <Foundation/Foundation.h>
 
-int main(int argc, char *argv[]) {
+int func(int argc, char *argv[]) {
 	@autoreleasepool {
 		
 	}
